@@ -1,6 +1,5 @@
 #!/usr/bin/env fish
 
-#!/usr/bin/env fish
 
 echo "Enter the name of the tool:"
 read tool
